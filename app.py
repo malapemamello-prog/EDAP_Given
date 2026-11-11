@@ -9,7 +9,8 @@ if uploaded_file is not None:
    df=pd.read_csv(uploaded_file)
 st.dataframe(df.head(5))
 st.metric("Rows", len(df))
-column = st.select_box("Column", df.columns.tolist())
+
+column = st.selectbox("Column", options=df.columns.tolist())
 
 choices = sorted(df[column].dropna().astype(str).unique().tolist())
 
