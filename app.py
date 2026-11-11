@@ -24,4 +24,4 @@ st.metric("Filtered rows", filtered.shape[0])
 counts = filtered[column].fillna("Missing").astype(str).value_counts()
 
 st.bar_chart(counts)
-st.download_button("Download CSV", filtered.to_csv(index=False), filename="filtered.csv")
+st.download_button("Download CSV", filtered.to_csv(index=True), file_name="filtered.csv", mime="text/csv")
