@@ -1,0 +1,301 @@
+transaction_id,date,province,sector,payment_method,amount_zar,quantity,customer_rating
+1001,2026-01-01,KwaZulu-Natal,Telecoms,Card,996.07,6,3
+1002,2026-01-02,Gauteng,Agriculture,Mobile Wallet,3388.08,13,
+1003,2026-01-03,Eastern Cape,Agriculture,Cash,112.09,18,5
+1004,2026-01-04,KwaZulu-Natal,Retail,Card,245.52,18,4
+1005,2026-01-05,Free State,Agriculture,Card,435.77,15,2
+1006,2026-01-06,Limpopo,Telecoms,Card,4727.63,4,3
+1007,2026-01-07,KwaZulu-Natal,Banking,,1454.75,19,4
+1008,2026-01-08,KwaZulu-Natal,Telecoms,EFT,2362.13,11,2
+1009,2026-01-09,Free State,Insurance,Cash,350.67,11,2
+1010,2026-01-10,Western Cape,Insurance,EFT,357.98,14,3
+1011,2026-01-11,Gauteng,,EFT,1716.11,15,2
+1012,2026-01-12,Limpopo,Mining,,1162.44,19,4
+1013,2026-01-13,Western Cape,,Mobile Wallet,1898.35,12,1
+1014,2026-01-14,Eastern Cape,Mining,Card,908.99,12,5
+1015,2026-01-15,Gauteng,Agriculture,EFT,1448.3,15,2
+1016,2026-01-16,Gauteng,Telecoms,EFT,1284.49,5,3
+1017,2026-01-17,Western Cape,Banking,EFT,2386.94,6,1
+1018,2026-01-18,Free State,Banking,Mobile Wallet,2457.77,12,2
+1019,2026-01-19,Eastern Cape,Retail,,217.05,2,
+1020,2026-01-20,Western Cape,Retail,EFT,115.9,7,
+1021,2026-01-21,KwaZulu-Natal,Mining,EFT,2986.17,14,1
+1022,2026-01-22,Gauteng,Mining,EFT,3596.53,19,3
+1023,2026-01-23,Limpopo,Retail,Card,395.19,10,1
+1024,2026-01-24,Eastern Cape,Mining,Card,170.74,8,2
+1025,2026-01-25,KwaZulu-Natal,Telecoms,Card,1210.8,9,3
+1026,2026-01-26,Free State,Banking,Card,2781.76,14,3
+1027,2026-01-27,Western Cape,Mining,EFT,6618.3,11,4
+1028,2026-01-28,Free State,Mining,EFT,1837.75,1,4
+1029,2026-01-29,Free State,Telecoms,EFT,756.18,11,5
+1030,2026-01-30,KwaZulu-Natal,Mining,EFT,448.93,8,1
+1031,2026-01-31,KwaZulu-Natal,Agriculture,EFT,1109.26,14,2
+1032,2026-02-01,Limpopo,Banking,Card,813.0,17,1
+1033,2026-02-02,Gauteng,Mining,,397.4,19,1
+1034,2026-02-03,Gauteng,Mining,Card,8507.94,12,2
+1035,2026-02-04,Western Cape,Banking,Card,6536.57,7,3
+1036,2026-02-05,Free State,Agriculture,EFT,3415.4,9,5
+1037,2026-02-06,Free State,Banking,EFT,436.66,4,4
+1038,2026-02-07,Western Cape,Banking,Card,2578.64,18,4
+1039,2026-02-08,Gauteng,,EFT,2078.97,17,4
+1040,2026-02-09,KwaZulu-Natal,Insurance,,1707.09,17,1
+1041,2026-02-10,Gauteng,Agriculture,Cash,3826.34,7,5
+1042,2026-02-11,Eastern Cape,Insurance,EFT,2070.14,7,5
+1043,2026-02-12,KwaZulu-Natal,Insurance,EFT,2298.51,17,1
+1044,2026-02-13,Gauteng,Mining,Card,2073.32,11,3
+1045,2026-02-14,Eastern Cape,Agriculture,Cash,1541.93,14,
+1046,2026-02-15,Eastern Cape,Banking,EFT,184.27,10,3
+1047,2026-02-16,Gauteng,Mining,,1192.28,9,5
+1048,2026-02-17,Gauteng,Telecoms,EFT,628.8,13,5
+1049,2026-02-18,KwaZulu-Natal,Insurance,Card,304.95,16,3
+1050,2026-02-19,Free State,Insurance,EFT,5894.75,7,1
+1051,2026-02-20,Free State,Mining,Cash,6179.52,16,2
+1052,2026-02-21,Free State,Telecoms,Mobile Wallet,4269.37,5,
+1053,2026-02-22,KwaZulu-Natal,Banking,Mobile Wallet,1415.47,8,3
+1054,2026-02-23,KwaZulu-Natal,Agriculture,EFT,4232.83,18,3
+1055,2026-02-24,KwaZulu-Natal,Telecoms,EFT,1109.93,19,3
+1056,2026-02-25,KwaZulu-Natal,Telecoms,Cash,1343.18,18,1
+1057,2026-02-26,Western Cape,Agriculture,Card,367.43,7,2
+1058,2026-02-27,Western Cape,Telecoms,Cash,1631.07,17,4
+1059,2026-02-28,Free State,Retail,EFT,1164.89,18,1
+1060,2026-03-01,Free State,,Card,298.08,19,2
+1061,2026-03-02,KwaZulu-Natal,,Card,1041.9,1,5
+1062,2026-03-03,Western Cape,Agriculture,Cash,1012.59,15,1
+1063,2026-03-04,Western Cape,Retail,Card,6618.08,19,3
+1064,2026-03-05,KwaZulu-Natal,Banking,Card,2681.72,15,2
+1065,2026-03-06,Western Cape,Telecoms,,1109.26,5,1
+1066,2026-03-07,Western Cape,Agriculture,Card,1406.4,15,3
+1067,2026-03-08,Western Cape,Telecoms,Card,1146.21,2,3
+1068,2026-03-09,Gauteng,Insurance,Cash,895.23,10,1
+1069,2026-03-10,Free State,Insurance,Card,371.51,12,1
+1070,2026-03-11,Gauteng,Retail,Cash,942.89,9,1
+1071,2026-03-12,Gauteng,Insurance,Mobile Wallet,520.04,14,4
+1072,2026-03-13,Gauteng,Telecoms,Card,314.09,5,5
+1073,2026-03-14,Eastern Cape,Telecoms,Card,1828.45,12,1
+1074,2026-03-15,Gauteng,Retail,EFT,1621.76,13,2
+1075,2026-03-16,Free State,Telecoms,Card,183.7,13,2
+1076,2026-03-17,Gauteng,Agriculture,Card,970.02,6,2
+1077,2026-03-18,Gauteng,Telecoms,Mobile Wallet,2968.17,6,2
+1078,2026-03-19,KwaZulu-Natal,Retail,Mobile Wallet,3162.83,5,1
+1079,2026-03-20,Western Cape,Telecoms,Cash,3058.98,9,3
+1080,2026-03-21,KwaZulu-Natal,Insurance,Card,1140.15,12,2
+1081,2026-03-22,KwaZulu-Natal,Agriculture,EFT,471.05,7,2
+1082,2026-03-23,Gauteng,Retail,Cash,371.04,8,2
+1083,2026-03-24,Eastern Cape,Insurance,Card,1547.82,6,5
+1084,2026-03-25,Free State,Insurance,EFT,1602.44,5,4
+1085,2026-03-26,Free State,Banking,Card,3973.22,13,3
+1086,2026-03-27,Free State,Agriculture,Card,3294.4,16,2
+1087,2026-03-28,KwaZulu-Natal,Mining,EFT,960.8,6,
+1088,2026-03-29,Western Cape,Telecoms,Card,316.02,17,5
+1089,2026-03-30,Free State,Mining,Card,797.03,11,1
+1090,2026-03-31,Western Cape,Agriculture,Cash,1362.71,4,5
+1091,2026-04-01,Free State,Insurance,Mobile Wallet,895.98,7,4
+1092,2026-04-02,KwaZulu-Natal,Agriculture,EFT,615.3,1,1
+1093,2026-04-03,Gauteng,Insurance,Cash,1412.17,1,4
+1094,2026-04-04,Gauteng,Insurance,Mobile Wallet,662.51,7,
+1095,2026-04-05,Gauteng,Retail,Card,585.19,9,1
+1096,2026-04-06,Western Cape,Banking,EFT,1497.35,16,1
+1097,2026-04-07,Gauteng,Agriculture,Card,733.63,3,3
+1098,2026-04-08,Free State,Telecoms,Card,1399.83,16,4
+1099,2026-04-09,Free State,Retail,Cash,1441.16,5,3
+1100,2026-04-10,Limpopo,Retail,EFT,350.92,3,1
+1101,2026-04-11,Limpopo,Telecoms,EFT,677.74,14,1
+1102,2026-04-12,KwaZulu-Natal,Telecoms,Card,4618.28,15,5
+1103,2026-04-13,Gauteng,Banking,Card,343.07,12,5
+1104,2026-04-14,Limpopo,Banking,Mobile Wallet,132.07,3,4
+1105,2026-04-15,KwaZulu-Natal,Retail,Card,170.4,3,1
+1106,2026-04-16,KwaZulu-Natal,,Card,1129.03,8,5
+1107,2026-04-17,Gauteng,Retail,Card,1131.07,9,4
+1108,2026-04-18,Gauteng,Telecoms,EFT,974.95,19,3
+1109,2026-04-19,Free State,,,3692.98,6,1
+1110,2026-04-20,Limpopo,Mining,EFT,75.73,4,5
+1111,2026-04-21,Western Cape,Agriculture,Card,1629.35,18,3
+1112,2026-04-22,Gauteng,Telecoms,Card,5226.19,3,1
+1113,2026-04-23,Gauteng,Agriculture,Cash,355.04,1,2
+1114,2026-04-24,Western Cape,Agriculture,EFT,750.09,9,3
+1115,2026-04-25,Free State,Insurance,EFT,516.52,8,1
+1116,2026-04-26,Eastern Cape,Agriculture,EFT,448.39,12,
+1117,2026-04-27,KwaZulu-Natal,Telecoms,Cash,791.35,17,3
+1118,2026-04-28,KwaZulu-Natal,Mining,Card,4570.99,18,5
+1119,2026-04-29,Gauteng,Banking,Card,6886.97,6,1
+1120,2026-04-30,Western Cape,Telecoms,EFT,783.73,19,3
+1121,2026-05-01,Western Cape,Retail,Card,7369.17,13,5
+1122,2026-05-02,Western Cape,Insurance,Cash,1136.35,2,5
+1123,2026-05-03,Free State,,,6334.02,18,5
+1124,2026-05-04,Gauteng,Retail,Cash,998.95,3,1
+1125,2026-05-05,Free State,,Mobile Wallet,1250.2,12,5
+1126,2026-05-06,Western Cape,Retail,EFT,1580.47,16,5
+1127,2026-05-07,Gauteng,Agriculture,Mobile Wallet,26340.26,5,2
+1128,2026-05-08,Free State,Retail,EFT,2569.03,6,3
+1129,2026-05-09,Free State,Mining,Mobile Wallet,540.63,10,3
+1130,2026-05-10,Western Cape,Telecoms,Card,2889.96,17,3
+1131,2026-05-11,Free State,Agriculture,,763.69,5,
+1132,2026-05-12,Limpopo,Mining,EFT,671.99,13,5
+1133,2026-05-13,Western Cape,Insurance,Card,2720.58,9,5
+1134,2026-05-14,Gauteng,Agriculture,Card,1131.26,3,2
+1135,2026-05-15,Western Cape,Banking,,1448.92,14,5
+1136,2026-05-16,Free State,Agriculture,EFT,1112.08,16,2
+1137,2026-05-17,Limpopo,Agriculture,,1535.46,11,4
+1138,2026-05-18,Western Cape,Mining,Card,1677.34,4,3
+1139,2026-05-19,KwaZulu-Natal,Agriculture,Card,158.07,3,3
+1140,2026-05-20,Free State,Insurance,Card,2135.75,9,1
+1141,2026-05-21,Western Cape,Agriculture,Mobile Wallet,410.75,10,4
+1142,2026-05-22,Western Cape,,,259.23,11,2
+1143,2026-05-23,Limpopo,Telecoms,Card,1034.41,5,2
+1144,2026-05-24,Western Cape,Banking,EFT,1192.71,10,1
+1145,2026-05-25,Western Cape,Agriculture,Card,548.12,6,5
+1146,2026-05-26,Gauteng,Mining,,2517.53,14,1
+1147,2026-05-27,Gauteng,Telecoms,Cash,286.52,16,4
+1148,2026-05-28,Western Cape,Banking,EFT,730.01,13,5
+1149,2026-05-29,Gauteng,Banking,Mobile Wallet,611.02,1,1
+1150,2026-05-30,Free State,Retail,EFT,1046.72,19,3
+1151,2026-05-31,Eastern Cape,Insurance,EFT,1449.34,1,3
+1152,2026-06-01,Eastern Cape,Retail,Cash,400.26,19,2
+1153,2026-06-02,Free State,Retail,Mobile Wallet,2262.63,1,
+1154,2026-06-03,Western Cape,Insurance,Cash,1167.95,10,3
+1155,2026-06-04,Free State,Telecoms,Mobile Wallet,165.35,3,3
+1156,2026-06-05,KwaZulu-Natal,Mining,,154.69,2,3
+1157,2026-06-06,Gauteng,,Mobile Wallet,1083.21,13,5
+1158,2026-06-07,KwaZulu-Natal,Mining,Card,879.22,14,4
+1159,2026-06-08,KwaZulu-Natal,Retail,Cash,988.89,3,2
+1160,2026-06-09,KwaZulu-Natal,Agriculture,EFT,1066.37,19,5
+1161,2026-06-10,Free State,Banking,EFT,1374.11,7,5
+1162,2026-06-11,Limpopo,Telecoms,EFT,2828.92,7,5
+1163,2026-06-12,Gauteng,Insurance,Mobile Wallet,361.01,6,4
+1164,2026-06-13,Free State,Insurance,Mobile Wallet,339.69,9,2
+1165,2026-06-14,Western Cape,Mining,,367.48,4,
+1166,2026-06-15,Gauteng,Agriculture,Cash,1463.98,9,2
+1167,2026-06-16,Eastern Cape,Telecoms,Cash,3808.34,4,2
+1168,2026-06-17,Eastern Cape,Mining,Card,712.41,1,3
+1169,2026-06-18,Gauteng,Retail,Card,89.86,8,5
+1170,2026-06-19,Limpopo,Mining,Card,199.54,13,3
+1171,2026-06-20,Gauteng,Telecoms,,476.74,15,2
+1172,2026-06-21,Western Cape,Insurance,EFT,627.83,7,3
+1173,2026-06-22,Gauteng,Retail,Mobile Wallet,728.95,7,2
+1174,2026-06-23,Limpopo,Agriculture,EFT,1139.77,15,4
+1175,2026-06-24,Free State,Insurance,Mobile Wallet,802.92,13,2
+1176,2026-06-25,Free State,Insurance,EFT,3131.73,16,3
+1177,2026-06-26,Gauteng,Mining,Cash,557.79,18,2
+1178,2026-06-27,Limpopo,Retail,Card,462.98,16,2
+1179,2026-06-28,Eastern Cape,Banking,EFT,1770.25,18,5
+1180,2026-06-29,KwaZulu-Natal,Insurance,,236.12,8,2
+1181,2026-06-30,Eastern Cape,Insurance,,1619.21,8,1
+1182,2026-07-01,Eastern Cape,Telecoms,Cash,1215.07,7,2
+1183,2026-07-02,Western Cape,Retail,Card,946.3,5,3
+1184,2026-07-03,Gauteng,Retail,Card,5368.35,15,1
+1185,2026-07-04,KwaZulu-Natal,Mining,Card,588.63,14,2
+1186,2026-07-05,KwaZulu-Natal,Telecoms,Card,8606.72,16,1
+1187,2026-07-06,Gauteng,Retail,EFT,875.3,4,3
+1188,2026-07-07,Free State,Agriculture,Cash,305.82,10,4
+1189,2026-07-08,KwaZulu-Natal,Telecoms,Cash,1176.05,5,5
+1190,2026-07-09,Gauteng,Retail,Mobile Wallet,373.81,17,2
+1191,2026-07-10,Limpopo,Retail,Cash,517.1,6,5
+1192,2026-07-11,Gauteng,Mining,,1631.14,3,2
+1193,2026-07-12,Free State,Agriculture,Card,1911.38,11,4
+1194,2026-07-13,Eastern Cape,Agriculture,Card,588.65,17,3
+1195,2026-07-14,Free State,Mining,EFT,2943.65,18,4
+1196,2026-07-15,Free State,Banking,,3489.48,2,4
+1197,2026-07-16,Western Cape,,Card,4611.47,7,3
+1198,2026-07-17,Eastern Cape,Mining,EFT,1862.01,3,2
+1199,2026-07-18,Free State,Banking,EFT,4287.37,6,3
+1200,2026-07-19,Gauteng,Mining,Card,167.2,11,5
+1201,2026-07-20,KwaZulu-Natal,Retail,EFT,797.99,6,5
+1202,2026-07-21,Limpopo,Banking,Mobile Wallet,460.81,2,5
+1203,2026-07-22,Western Cape,Telecoms,EFT,1235.49,10,1
+1204,2026-07-23,Free State,Insurance,Card,619.28,2,3
+1205,2026-07-24,Free State,Agriculture,Mobile Wallet,928.75,5,1
+1206,2026-07-25,Gauteng,Agriculture,Card,7202.44,1,
+1207,2026-07-26,Free State,Telecoms,Mobile Wallet,925.45,2,5
+1208,2026-07-27,KwaZulu-Natal,Retail,Card,1658.7,9,1
+1209,2026-07-28,Free State,Mining,EFT,869.34,17,4
+1210,2026-07-29,Western Cape,Insurance,Card,1182.89,15,5
+1211,2026-07-30,KwaZulu-Natal,Retail,Card,1103.25,2,5
+1212,2026-07-31,Western Cape,,Mobile Wallet,1716.98,1,2
+1213,2026-08-01,Free State,Agriculture,Card,3516.8,7,1
+1214,2026-08-02,Eastern Cape,Banking,Card,5695.29,13,5
+1215,2026-08-03,KwaZulu-Natal,Agriculture,Card,1494.61,15,5
+1216,2026-08-04,KwaZulu-Natal,Insurance,Cash,1977.42,16,3
+1217,2026-08-05,Free State,Retail,Cash,346.93,7,5
+1218,2026-08-06,Free State,Retail,Mobile Wallet,1004.38,4,1
+1219,2026-08-07,Limpopo,Telecoms,Card,2808.17,1,4
+1220,2026-08-08,Gauteng,Insurance,EFT,2607.03,3,1
+1221,2026-08-09,Gauteng,Retail,Card,1355.07,2,5
+1222,2026-08-10,Western Cape,Telecoms,EFT,2660.83,17,4
+1223,2026-08-11,KwaZulu-Natal,Retail,Mobile Wallet,1791.43,6,5
+1224,2026-08-12,Limpopo,Telecoms,Cash,3642.07,16,3
+1225,2026-08-13,Gauteng,Telecoms,EFT,1464.63,11,1
+1226,2026-08-14,Limpopo,Retail,Card,768.39,11,1
+1227,2026-08-15,Free State,Agriculture,Mobile Wallet,1534.32,9,2
+1228,2026-08-16,Western Cape,Insurance,EFT,58.52,16,4
+1229,2026-08-17,Western Cape,Insurance,Card,1608.22,1,1
+1230,2026-08-18,Free State,Retail,,28.55,2,5
+1231,2026-08-19,Free State,Banking,Card,195.69,9,2
+1232,2026-08-20,Gauteng,Banking,Card,1722.91,8,3
+1233,2026-08-21,Limpopo,Mining,Card,1767.87,11,
+1234,2026-08-22,Western Cape,Retail,EFT,342.95,15,3
+1235,2026-08-23,Limpopo,Insurance,EFT,538.02,12,3
+1236,2026-08-24,Eastern Cape,Agriculture,Card,4317.97,5,
+1237,2026-08-25,Western Cape,Agriculture,EFT,675.85,7,3
+1238,2026-08-26,KwaZulu-Natal,Banking,Mobile Wallet,10331.16,15,4
+1239,2026-08-27,Free State,Retail,Cash,1094.53,4,5
+1240,2026-08-28,Free State,Insurance,EFT,1649.18,10,2
+1241,2026-08-29,Eastern Cape,Banking,Card,5524.09,11,5
+1242,2026-08-30,KwaZulu-Natal,Telecoms,Mobile Wallet,1250.16,15,5
+1243,2026-08-31,Gauteng,Insurance,Card,402.48,14,5
+1244,2026-09-01,Western Cape,Retail,Card,982.67,9,2
+1245,2026-09-02,Western Cape,Retail,Mobile Wallet,1058.27,6,5
+1246,2026-09-03,Eastern Cape,Retail,EFT,280.13,7,3
+1247,2026-09-04,Western Cape,Retail,Cash,849.09,8,1
+1248,2026-09-05,Gauteng,Retail,EFT,522.07,5,2
+1249,2026-09-06,Gauteng,Agriculture,EFT,2763.79,12,4
+1250,2026-09-07,Gauteng,Telecoms,Card,1135.25,4,1
+1251,2026-09-08,KwaZulu-Natal,Insurance,Card,826.5,13,3
+1252,2026-09-09,Eastern Cape,Agriculture,Card,986.16,15,
+1253,2026-09-10,Western Cape,Insurance,Card,1370.76,19,1
+1254,2026-09-11,Gauteng,Banking,Mobile Wallet,2032.08,3,3
+1255,2026-09-12,Gauteng,Banking,Card,403.54,15,2
+1256,2026-09-13,KwaZulu-Natal,Insurance,EFT,387.0,2,3
+1257,2026-09-14,Eastern Cape,Banking,Cash,3309.92,7,2
+1258,2026-09-15,Free State,Retail,Cash,726.08,4,5
+1259,2026-09-16,Free State,Agriculture,EFT,265.91,4,1
+1260,2026-09-17,Western Cape,Agriculture,EFT,1709.25,4,5
+1261,2026-09-18,Free State,Insurance,Mobile Wallet,1743.01,1,4
+1262,2026-09-19,Eastern Cape,Insurance,,237.29,16,5
+1263,2026-09-20,Gauteng,Retail,Cash,1379.51,2,5
+1264,2026-09-21,Free State,Agriculture,Mobile Wallet,2288.34,8,
+1265,2026-09-22,Limpopo,Insurance,Cash,1594.61,14,5
+1266,2026-09-23,Free State,Agriculture,Card,2063.13,19,
+1267,2026-09-24,Gauteng,Agriculture,EFT,269.27,17,5
+1268,2026-09-25,Free State,Insurance,Card,1526.97,3,5
+1269,2026-09-26,Free State,Mining,EFT,810.28,19,3
+1270,2026-09-27,Free State,Retail,Mobile Wallet,676.69,13,2
+1271,2026-09-28,Free State,Mining,EFT,2619.02,4,1
+1272,2026-09-29,Free State,Banking,EFT,4813.96,9,1
+1273,2026-09-30,Free State,Retail,Card,6597.0,18,2
+1274,2026-10-01,Western Cape,Retail,Mobile Wallet,4083.9,8,5
+1275,2026-10-02,KwaZulu-Natal,Agriculture,Card,982.66,4,3
+1276,2026-10-03,Gauteng,Telecoms,Card,1560.44,17,3
+1277,2026-10-04,Gauteng,Telecoms,Card,2360.96,19,2
+1278,2026-10-05,Western Cape,Agriculture,,1237.91,19,3
+1279,2026-10-06,Eastern Cape,Telecoms,EFT,1249.83,19,4
+1280,2026-10-07,Eastern Cape,Telecoms,EFT,2499.27,17,5
+1281,2026-10-08,Free State,Retail,Card,1033.51,9,4
+1282,2026-10-09,Free State,Insurance,Card,528.85,4,4
+1283,2026-10-10,Gauteng,Mining,Card,724.53,12,5
+1284,2026-10-11,Gauteng,,Card,2067.12,5,3
+1285,2026-10-12,Western Cape,Agriculture,,1099.92,9,5
+1286,2026-10-13,Gauteng,Agriculture,EFT,1541.04,13,2
+1287,2026-10-14,Free State,Retail,Card,2143.25,18,1
+1288,2026-10-15,Gauteng,Banking,Card,753.82,6,3
+1289,2026-10-16,Western Cape,Retail,Card,2336.12,5,
+1290,2026-10-17,Free State,Banking,EFT,1601.73,14,1
+1291,2026-10-18,Eastern Cape,Retail,Card,319.0,1,
+1292,2026-10-19,Free State,Agriculture,Card,4639.24,11,
+1293,2026-10-20,Limpopo,,Mobile Wallet,664.65,15,2
+1294,2026-10-21,Free State,Insurance,Card,209.54,11,5
+1295,2026-10-22,Eastern Cape,Agriculture,EFT,385.66,8,1
+1296,2026-10-23,Limpopo,Telecoms,EFT,395.03,16,2
+1297,2026-10-24,Limpopo,Telecoms,Card,1155.37,8,4
+1298,2026-10-25,Eastern Cape,Retail,EFT,833.93,14,2
+1299,2026-10-26,KwaZulu-Natal,Retail,Cash,783.03,9,4
+1300,2026-10-27,Western Cape,Telecoms,Cash,2037.95,1,5
