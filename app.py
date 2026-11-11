@@ -11,7 +11,7 @@ st.dataframe(df.head(5))
 st.metric("Rows", len(df))
 column = st.select_box("Column", df.columns.tolist())
 
-filter_enabled = st.checkbox("Enable filter", default=False)
+column = st.selectbox("Column", options=df.columns.tolist())
 choices = sorted(df[column].dropna().astype(str).unique().tolist())
 
 selected = st.multiselect("Values", options=choices, default=choices)
