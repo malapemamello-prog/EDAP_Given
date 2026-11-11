@@ -6,9 +6,7 @@ st.title("CSV Data Explorer")
 
 uploaded_file = st.file_uploader("Upload CSV", type=["csv"])
 if uploaded_file is not None:
-
-
-df = pd.read_csv(uploaded_file)
+   df=pd.read_csv(uploaded_file)
 st.dataframe(df.head(5))
 st.metric("Rows", len(df))
 column = st.select_box("Column", df.columns.tolist())
